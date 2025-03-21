@@ -8,6 +8,15 @@
 
 <br>
 
+## Seminar 21. März 2025
+
+[Give Feedback](https://www.metricsthatmatter.com/url/u.aspx?CCCF25C45220602410)
+
+[Grab your badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=XJPK94)
+
+<br>
+
+
 ## Labs
 
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
@@ -25,7 +34,11 @@
 
 [Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
-[Microsoft Applied Skills: Administer Active Directory Domain Services](https://learn.microsoft.com/en-us/credentials/applied-skills/administer-active-directory-domain-services/#applied-skill-take-the-assessment)
+
+|   |   |
+| - | - |
+| <img src="https://download69118.blob.core.windows.net/anon/apl.png"    width="100"/> | [Microsoft Applied Skills: Administer Active Directory Domain Services](https://learn.microsoft.com/en-us/credentials/applied-skills/administer-active-directory-domain-services/) |
+
 
 <br>
 
@@ -45,6 +58,8 @@
 
 
 ## Useful links
+
+[Getting Started with PowerShell 3.0 Jump Start](https://www.youtube.com/playlist?list=PLyJiOytEPs4etH7Ujq7PU7jlOlHL-9RmV) with Jeff Snover and Jason Helmick (Playlist at Youtube)
 
 
 
